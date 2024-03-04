@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Zookeeper_(Kotlin).Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_characters.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Introduction_to_MutableList-Summing_lengths_of_names_in_a_mutable_list.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Introduction_to_MutableList-Theory.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Objects_and_their_properties-A_test.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Objects_and_their_properties-Modeling_a_cell_phone_configuration.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Objects_and_their_properties-Property.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Topics-Objects_and_their_properties-Theory.main" target="8" />
+      <module name="Zookeeper_(Kotlin).util.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Zookeeper__Kotlin_-task-build-classes-kotlin.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Zookeeper__Kotlin_-task-build-reports-tests.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Zookeeper__Kotlin_-task-build-test-results.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Zookeeper__Kotlin_-task-build-tmp.main" target="8" />
+      <module name="Zookeeper_(Kotlin).Zookeeper__Kotlin_-task.main" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
